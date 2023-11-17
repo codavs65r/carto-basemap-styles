@@ -21,10 +21,10 @@
 
   "place_text":             "#888888",
   "place_halo":             "rgba(255,255,255,0.5)",
-  "marine_labels":          "#cccccc",
+  "marine_labels":          "#bbbbbb",
   "marine_labels_halo":     "rgba(255,255,255,0.5)",
 
-  "water_label":            "#cccccc",
+  "water_label":            "#bbbbbb",
   "water_halo":             "rgba(255,255,255,0.5)",
 
   "road_text_light":        "#838383",

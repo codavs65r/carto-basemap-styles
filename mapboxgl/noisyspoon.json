@@ -4187,7 +4187,7 @@
         "text-keep-upright": true
       },
       "paint": {
-        "text-color": "#cccccc",
+        "text-color": "#bbbbbb",
         "text-halo-color": "rgba(255,255,255,0.5)",
         "text-halo-width": 1
       }
@@ -4252,7 +4252,7 @@
         "text-letter-spacing": 0.1
       },
       "paint": {
-        "text-color": "#cccccc",
+        "text-color": "#bbbbbb",
         "text-halo-color": "rgba(255,255,255,0.5)",
         "text-halo-width": 1,
         "text-halo-blur": 0
@@ -4302,7 +4302,7 @@
         "text-letter-spacing": 0.1
       },
       "paint": {
-        "text-color": "#cccccc",
+        "text-color": "#bbbbbb",
         "text-halo-color": "rgba(255,255,255,0.5)",
         "text-halo-width": 1,
         "text-halo-blur": 0
@@ -4384,7 +4384,7 @@
         "text-rotation-alignment": "auto"
       },
       "paint": {
-        "text-color": "#cccccc",
+        "text-color": "#bbbbbb",
         "text-halo-color": "rgba(255,255,255,0.5)",
         "text-halo-width": 1,
         "text-halo-blur": 1
@@ -4458,7 +4458,7 @@
         "text-line-height": 1.2
       },
       "paint": {
-        "text-color": "#cccccc",
+        "text-color": "#bbbbbb",
         "text-halo-color": "rgba(255,255,255,0.5)",
         "text-halo-width": 1,
         "text-halo-blur": 1
