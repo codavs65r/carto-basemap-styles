@@ -1,0 +1,112 @@
+{
+  "style_name":             "Nord",
+  "style_path":             "positron",
+
+  "landmass_fill":          "rgba(59, 66, 82, 1)",
+  "landmass_fill_labels_only": "transparent",
+  "dark_text":              "rgba(255, 255, 255, 0.50)",
+  "med_text":               "rgba(255, 255, 255, 0.50)",
+  "light_text":             "rgba(255, 255, 255, 0.25)",
+
+  "continent_text":         "rgba(255, 255, 255, 0.50)",
+  "continent_halo":         "rgba(0,0,0,0.5)",
+  "country_text_dark":      "rgba(255, 255, 255, 0.50)",
+  "country_text_med":       "rgba(255, 255, 255, 0.50)",
+  "country_text_light":     "rgba(255, 255, 255, 0.50)",
+  "country_halo":           "rgba(0,0,0,0.25)",
+
+  "state_text":             "rgba(255, 255, 255, 0.50)",
+  "state_text_light":       "rgba(255, 255, 255, 0.50)",
+  "state_halo":             "rgba(255,255,255,0.25)",
+
+  "place_text":             "rgba(255, 255, 255, 0.50)",
+  "place_halo":             "rgba(0,0,0,0.5)",
+  "marine_labels":          "rgba(255, 255, 255, 0.25)",
+  "marine_labels_halo":     "rgba(0,0,0,0.5)",
+
+  "water_label":            "rgba(255, 255, 255, 0.25)",
+  "water_halo":             "rgba(0,0,0,0.5)",
+
+  "road_text_light":        "rgba(255, 255, 255, 0.50)",
+  "road_text_med":          "rgba(255, 255, 255, 0.50)",
+  "road_text":              "rgba(255, 255, 255, 0.3)",
+  "motorway_halo":          "rgba(0,0,0,0.5)",
+  "primary_halo":           "rgba(0,0,0,0.5)",
+  "minor_halo":             "rgba(0,0,0,0.5)",
+  "tunnel_halo":            "rgba(0,0,0,0.5)",
+  "text_transform":         "none",
+
+  "poi_light":              "rgba(255, 255, 255, 0.50)",
+  "poi_dark":               "rgba(255, 255, 255, 0.5)",
+  "poi_halo":               "rgba(0,0,0,0.5)",
+
+  "housenumber":            "rgba(255, 255, 255, 0.5)",
+  "housenumber_halo":       "rgba(0,0,0,0.5)",
+
+  "admin0_3":               "#4c566a",
+  "admin0_4":               "rgba(76, 86, 106, 0.75)",
+  "admin0_5":               "rgba(76, 86, 106, 0.5)",
+  "admin0_6":               "rgba(76, 86, 106, 0.4)",
+  "admin0_7":               "rgba(76, 86, 106, 0.5)",
+
+  "admin1_low":             "#4c566a",
+  "admin1_high":            "rgba(76, 86, 106, 0.5)",
+
+  "water":                  "#2e3440",
+  "rivers_stroke":          "#2e3440",
+  "water_shadow":           "transparent",
+  "ocean_line":             "transparent",
+
+  "urbanareas":             "#434c5e",
+  "urban_fade_1":           "rgba(67, 76, 94, 0.5)",
+  "urban_fade_2":           "rgba(67, 76, 94, 0.45)",
+  "urban_fade_3":           "rgba(67, 76, 94, 0.4)",
+  "urban_fade_4":           "rgba(67, 76, 94, 0.35)",
+  "urban_fade_5":           "rgba(67, 76, 94, 0.3)",
+  "urban_fade_6":           "rgba(67, 76, 94, 0.25)",
+  "urban_fade_7":           "rgba(67, 76, 94, 0.25)",
+
+  "greenareas":             "rgba(163, 190, 140, 0.1)",
+  "greenarea_fade_1":       "rgba(163, 190, 140, 0.1)",
+  "greenarea_fade_2":       "rgba(163, 190, 140, 0.1)",
+  "greenarea_fade_3":       "rgba(163, 190, 140, 0.1)",
+  "greenarea_fade_4":       "rgba(163, 190, 140, 0.1)",
+
+  "green_area_highzoom":    "rgba(163, 190, 140, 0.1)",
+  "pattern_opacity":        "1",
+
+  "buildings":              "#434c5e",
+  "building_shadow":        "#3b4252",
+  "building_a":             "#434c5e",
+  "building_outline":       "#3b4252",
+
+  "aeroways":               "#3b4252",
+
+  "motorway":               "#4c566a",
+  "motorway_case":          "#434c5e",
+  "motorway_case_lowzoom":  "#3b4252",
+
+  "main":                   "#4c566a",
+  "main_case_lowzoom":      "#3b4252",
+  "main_case":              "#434c5e",
+  "secondary":              "#4c566a",
+  "secondary_case_lowzoom": "#3b4252",
+  "secondary_case":         "#434c5e",
+
+  "street":                 "#4c566a",
+  "street_lowzoom":         "#3b4252",
+  "minor_case":             "#434c5e",
+
+  "path":                   "#434c5e",
+  "path_case":              "#434c5e",
+  "path_poly":              "#3b4252",
+
+  "tunnel":                 "#3b4252",
+  "tunnel_case":            "#434c5e",
+
+  "rail":                   "#434c5e",
+  "rail_dash":              "#4c566a",
+
+  "motorway_ramp_lowzoom":  "#434c5e",
+  "minor_ramp_highzoom":    "#4c566a"
+}
