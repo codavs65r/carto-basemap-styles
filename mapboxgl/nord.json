@@ -3971,11 +3971,11 @@
           "stops": [
             [
               15.5,
-              "#e5e9f0"
+              "#d8dee9"
             ],
             [
               16,
-              "#e5e9f0"
+              "#d8dee9"
             ]
           ]
         },
@@ -4010,8 +4010,8 @@
             ]
           ]
         },
-        "fill-outline-color": "#e5e9f0",
-        "fill-color": "#d8dee9",
+        "fill-outline-color": "#d8dee9",
+        "fill-color": "#e5e9f0",
         "fill-opacity": {
           "base": 1,
           "stops": [

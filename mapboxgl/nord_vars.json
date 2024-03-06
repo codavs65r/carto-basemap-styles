@@ -75,10 +75,10 @@
   "green_area_highzoom":    "rgba(163, 190, 140, 0.1)",
   "pattern_opacity":        "1",
 
-  "buildings":              "#d8dee9",
-  "building_shadow":        "#e5e9f0",
-  "building_a":             "#d8dee9",
-  "building_outline":       "#e5e9f0",
+  "buildings":              "#e5e9f0",
+  "building_shadow":        "#d8dee9",
+  "building_a":             "#e5e9f0",
+  "building_outline":       "#d8dee9",
 
   "aeroways":               "#e5e9f0",
 
