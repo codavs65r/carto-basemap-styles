@@ -2,7 +2,7 @@
   "style_name":             "Nord",
   "style_path":             "positron",
 
-  "landmass_fill":          "rgba(247, 247, 248, 1)",
+  "landmass_fill":          "rgba(250, 254, 255, 1)",
   "landmass_fill_labels_only": "transparent",
   "dark_text":              "rgba(0, 0, 0, 0.5)",
   "med_text":               "rgba(0, 0, 0, 0.5)",
